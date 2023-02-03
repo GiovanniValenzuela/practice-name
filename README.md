@@ -1,7 +1,7 @@
 # my leaflet practice assignment
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
-## Link to live map (coming soon)
+## Link to live map (https://giovannivalenzuela.github.io/practice-name/)
 https://handsondataviz.github.io/leaflet-map-simple/
 
 ## Create your own
